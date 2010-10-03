@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>content</key>
+	<string>${TM_COMMENT_START} Created by ${TM_FULLNAME} on `date +'%Y-%m-%d'`
+${TM_COMMENT_START} Copyright (c) `date +%Y` ${TM_ORGANIZATION_NAME:Organization}. All rights reserved.</string>
+	<key>name</key>
+	<string>copyright</string>
+	<key>tabTrigger</key>
+	<string>copyr</string>
+	<key>uuid</key>
+	<string>CC3BAC8D-4FB1-47EE-8C93-E4518602C77F</string>
+</dict>
+</plist>
