@@ -7,6 +7,8 @@ Feel free to expand it as you need
 
 Just type `copyr` and press Tab key.
 
+**Note:** It uses some settings from your system. Please specify correctly your name under `System Preferences` and your company under TextMate Preferences pane (`TM_ORGANIZATION_NAME` variable)
+
 ## License
 
 This project licensed under the terms of Creative Commons [Attribution-ShareAlike 3.0](http://creativecommons.org/licenses/by-sa/3.0/) license.
