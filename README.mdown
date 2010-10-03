@@ -1,0 +1,12 @@
+# Copyright.tmbundle
+
+This is a [TextMate](http://macromates.com/) bundle for adding copyright text to any files.
+Feel free to expand it as you need
+
+## Usage
+
+Just type `copyr` and press Tab key.
+
+## License
+
+This project licensed under the terms of Creative Commons [Attribution-ShareAlike 3.0](http://creativecommons.org/licenses/by-sa/3.0/) license.
