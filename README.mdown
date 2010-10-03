@@ -11,4 +11,8 @@ Just type `copyr` and press Tab key.
 
 ## License
 
-This project licensed under the terms of Creative Commons [Attribution-ShareAlike 3.0](http://creativecommons.org/licenses/by-sa/3.0/) license.
+This project is licensed under the terms of Creative Commons [Attribution-ShareAlike 3.0](http://creativecommons.org/licenses/by-sa/3.0/) license.
+
+## Bugreport
+
+If you find any bug or any improvement for this project, please notify me over GitHub [tracker](http://github.com/hron84/Copyright.tmbundle/issues) of this project or over e-mail at hrgyster@gmail.com.
